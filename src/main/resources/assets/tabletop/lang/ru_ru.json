@@ -1,0 +1,12 @@
+{
+  "itemGroup.TABLE_TOP": "TableTopGames",
+  "block.tabletop.chess_board": "Шахматная Доска",
+  "tabletop.chooseBlack": "Играть за черных",
+  "tabletop.chooseWhite": "Играть за белых",
+  "tabletop.chooseRandom": "Случайный цвет",
+  "tabletop.Ready": "Готов",
+  "tabletop.notReady": "Не готов",
+  "tabletop.currentTurn": "Ход %s",
+  "tabletop.winner": "%s Победил!",
+  "tabletop.notifyReset": "Доска обновится через 10 секунд"
+}

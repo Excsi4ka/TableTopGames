@@ -1,0 +1,66 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [36, 36],
+	"textures": {
+		"0": "tabletop:block/chess_board_item",
+		"particle": "tabletop:block/chess_board_item"
+	},
+	"elements": [
+		{
+			"from": [-1.8, 0, -1.8],
+			"to": [15.8, 1.6, 15.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -0.2, 0]},
+			"faces": {
+				"north": {"uv": [8, 0.88889, 16, 1.77778], "texture": "#0"},
+				"east": {"uv": [8, 0.88889, 16, 1.77778], "texture": "#0"},
+				"south": {"uv": [8, 0.88889, 16, 1.77778], "texture": "#0"},
+				"west": {"uv": [8, 0.88889, 16, 1.77778], "texture": "#0"},
+				"up": {"uv": [0, 8, 8, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [8, 8, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [1, 1, -90],
+			"translation": [5, -1.5, -3.25],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [1, 0, -94],
+			"translation": [4.75, -2.75, -2.75],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [50, -61, 28],
+			"translation": [0, 7.5, 3.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [152, 80, -110],
+			"translation": [6.25, 3.5, 3.25]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"gui": {
+			"rotation": [29, 44, 0],
+			"translation": [0.25, 1.75, 0],
+			"scale": [0.7, 0.7, 0.69]
+		},
+		"head": {
+			"translation": [0, 13, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -7.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "model",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

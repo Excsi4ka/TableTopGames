@@ -1,0 +1,12 @@
+{
+  "itemGroup.TABLE_TOP": "TableTopGames",
+  "block.tabletop.chess_board": "Chess Board",
+  "tabletop.chooseBlack": "Pick Black",
+  "tabletop.chooseWhite": "Pick White",
+  "tabletop.chooseRandom": "Random pick",
+  "tabletop.Ready": "Ready",
+  "tabletop.notReady": "Not ready",
+  "tabletop.currentTurn": "%s's Turn",
+  "tabletop.winner": "%s Won!",
+  "tabletop.notifyReset": "The board will reset in 10 seconds"
+}

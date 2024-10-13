@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tabletop:block/chess_board"
+    }
+  }
+}
