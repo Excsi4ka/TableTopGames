@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BA",
+    "AB",
+    "CC"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:white_wool"
+    },
+    "A": {
+      "item": "minecraft:black_wool"
+    },
+    "C": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "tabletop:chess_board"
+  }
+}
